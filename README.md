@@ -1,2 +1,2 @@
 # Units_Converter
-This is my attempt at creating a simple units converter on python and tkinter
+This is my attempt at creating a simple units converter on python and tkinter as the GUI
